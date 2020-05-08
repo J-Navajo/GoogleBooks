@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.tron.jumbotron{
+  padding-top: 0px;
+  border: solid 2px black;
+}

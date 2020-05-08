@@ -6,7 +6,7 @@ const Example = (props) => {
     return (
         <div>
        
-                <Jumbotron>
+                <Jumbotron className="tron">
                     <h1 className="display-4" className="text-center">(React) Google Books Search</h1>
                     <p className="lead" className="text-center">Search for and Save Books of Interest</p>
                     
